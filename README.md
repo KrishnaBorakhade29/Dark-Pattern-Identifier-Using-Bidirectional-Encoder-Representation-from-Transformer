@@ -2,7 +2,8 @@
 A tool to detect deceptive design practices in user interfaces using advanced NLP techniques.
 
 # Technologies Used
-## Machine Learning: BERT (Bidirectional Encoder Representations from Transformers)
+## Machine Learning: 
+BERT (Bidirectional Encoder Representations from Transformers)
 ## Programming Language: 
 Python
 ## Libraries:
